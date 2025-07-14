@@ -11,6 +11,9 @@ Desarrolla una aplicación web para la gestión de una biblioteca personal. El s
 En el campo que aparece a continuación podrás entregar el enlace al repositorio del proyecto a desarrollar.  
 **Tenés tiempo para hacerlo hasta el 21/07/2025 inclusive.**
 
+**El link de entrega del trabajo es:**  
+[@https://forms.gle/KmVd1TK1QdfKtk417](https://forms.gle/KmVd1TK1QdfKtk417)
+
 ---
 
 ## 📌 Importante
